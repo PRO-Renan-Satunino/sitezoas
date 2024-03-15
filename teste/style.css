@@ -1,0 +1,14 @@
+.block {
+    display: flex;
+}
+
+img {
+    margin: 15px;
+    border-radius: 50px;
+}
+
+h1 {
+    margin: 15px;
+    position: relative;
+    top: 125px;
+}
